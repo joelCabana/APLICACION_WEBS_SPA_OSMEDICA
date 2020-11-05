@@ -1,0 +1,14 @@
+.footer {
+    background-color: #283e4a;
+    position: absolute;
+    bottom: 0;
+}
+
+.icon {
+    height: 40px;
+    width: 20px;
+}
+
+a {
+    color: white;
+}

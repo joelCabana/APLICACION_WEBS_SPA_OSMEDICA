@@ -1,0 +1,12 @@
+.estiloBoton:hover {
+   border: solid 1px white;
+   font-weight: bold;
+   box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.img {
+   /* width: 500px; */
+   height: 250px;
+   object-fit: cover;
+}
+

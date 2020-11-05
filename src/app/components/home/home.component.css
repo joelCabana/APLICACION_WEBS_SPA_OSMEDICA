@@ -1,0 +1,24 @@
+.img {
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.text {
+    color: #00788a;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.facebook-btn {
+    background: #3b5998;
+    color: white;
+}
+
+.facebook-btn:hover {
+    background: #2f4b86;
+}
